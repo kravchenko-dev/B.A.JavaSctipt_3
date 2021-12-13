@@ -40,16 +40,6 @@ if (num === '1') {
 
 alert('The sum of the numbers entered earlier ' + (age + num))
 
-/* if (typeof age !== isNaN && typeof num !== isNaN) {
-  alert('The sum of the numbers entered earlier ' + (age + num))
-} else if (typeof age === isNaN) {
-  alert('The sum of the numbers entered earlier ' + age)
-} else if (typeof num === isNaN) {
-  alert('The sum of the numbers entered earlier ' + num)
-} else {
-  alert('You have not entered the correct values before')
-} */
-
 let num1 = prompt('Enter the number')
 
 let num2 = prompt('Enter two number')
